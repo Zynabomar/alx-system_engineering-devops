@@ -1,1 +1,1 @@
-script that sets the permissions to the file
+script that set permissions to file
