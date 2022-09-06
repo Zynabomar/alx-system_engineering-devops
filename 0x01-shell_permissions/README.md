@@ -1,1 +1,1 @@
-script that sets mode of a file
+script that add execute permission to all subdirectories
