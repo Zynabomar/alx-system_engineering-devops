@@ -1,1 +1,1 @@
-script that plays star wars
+script that change the current user
