@@ -1,1 +1,1 @@
-script that sets mood of the file
+script that sets mode of a file
