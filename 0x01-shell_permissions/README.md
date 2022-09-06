@@ -1,1 +1,1 @@
-script that change the current user
+script that change owner
